@@ -1,0 +1,1 @@
+# MagnusPS5-Compatibility-List
