@@ -2,6 +2,7 @@
 
 Tested devices:
 iPad Air 5th Gen (M1) | iPadOS 26.6.x (does NOT work on 27.x with free dev acc)
+
 iPad Mini 7th Gen (A17 Pro) | iPadOS 26.6 (should work on 27.x)
 
 Requirements:
