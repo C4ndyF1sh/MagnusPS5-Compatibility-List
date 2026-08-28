@@ -27,7 +27,8 @@ v0.0.1
 
 
 
-### Graphical Issues/Missing or broken textures?
+### Graphical, Audio, Input Issues?
+
 
 
 ### Used Settings
@@ -37,8 +38,4 @@ Spatial Upscaling:
 Temporal Upscaling:
 Frame Interpolation:
 
-### Video/Photo of the game with MetalHUD/HUD enabled (Only if visual/audio output))
-
-
-
-### Error Log
+### Video/Photo of the game with MetalHUD/HUD enabled (Only if visual/audio output)
